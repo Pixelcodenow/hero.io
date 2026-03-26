@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co/mLQz9rV/demo-app-1.webp",
+    "title": "SmPlan: ToDo List With Reminder",
+    "companyName": "productive.io",
+    "description": "This focus app takes the proven Pomodoro technique and makes it even more practical for modern lifestyles. Users can create custom work and break intervals, track sessions, and review statistics. The design is minimal and calming, reducing cognitive load so you can focus entirely on the task at hand.",
+    "size": 291,
+    "reviews": 54000,
+    "ratingAvg": 4.9,
+    "downloads": 8000000,
+    "ratings": [
+      {"name": "5 star", "count": 11000},
+      {"name": "4 star", "count": 6500},
+      {"name": "3 star", "count": 2800},
+      {"name": "2 star", "count": 1800},
+      {"name": "1 star", "count": 900}
+    ]
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co/6JFpL0bg/forest.webp",
+    "title": "Forest: Focus For Productivity",
+    "companyName": "Seeker Tech",
+    "description": "Stay focused, be present! Forest provides an interesting solution to beat your smartphone addiction. You can plant a seed in Forest. In the following time, this seed will gradually grow into a tree.",
+    "size": 150,
+    "reviews": 90000,
+    "ratingAvg": 4.8,
+    "downloads": 10000000,
+    "ratings": [
+      {"name": "5 star", "count": 15000},
+      {"name": "4 star", "count": 4000},
+      {"name": "3 star", "count": 1200},
+      {"name": "2 star", "count": 500},
+      {"name": "1 star", "count": 300}
+    ]
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co/svsCHLPf/flip.png",
+    "title": "FLIP - Focus Timer For Study",
+    "companyName": "RinaSoft",
+    "description": "FLIP is the best study timer to improve your focus! Check your focus level by measuring your concentration time. Flip your phone to start the timer.",
+    "size": 85,
+    "reviews": 25000,
+    "ratingAvg": 4.6,
+    "downloads": 5000000,
+    "ratings": [
+      {"name": "5 star", "count": 8000},
+      {"name": "4 star", "count": 3500},
+      {"name": "3 star", "count": 1500},
+      {"name": "2 star", "count": 800},
+      {"name": "1 star", "count": 400}
+    ]
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co/yBNZskrQ/pomocat.png",
+    "title": "Pomocat - Cute Pomodoro Timer",
+    "companyName": "Meow Studio",
+    "description": "A cute cat-themed pomodoro timer to make your work fun. Collect different cats as you complete your focus sessions.",
+    "size": 45,
+    "reviews": 12000,
+    "ratingAvg": 5.0,
+    "downloads": 1000000,
+    "ratings": [
+      {"name": "5 star", "count": 10000},
+      {"name": "4 star", "count": 1000},
+      {"name": "3 star", "count": 500},
+      {"name": "2 star", "count": 300},
+      {"name": "1 star", "count": 200}
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Time Planner: Schedule & Tasks",
+    "image": "https://i.ibb.co/4ZSjQvS9/time-planner.png",
+    "companyName": "Oleksandr",
+    "description": "Keep your schedule organized and your life balanced with Time Planner. Manage tasks, habits, and goals in one place.",
+    "size": 120,
+    "reviews": 45000,
+    "ratingAvg": 4.7,
+    "downloads": 9000000,
+    "ratings": [
+      {"name": "5 star", "count": 12000},
+      {"name": "4 star", "count": 5000},
+      {"name": "3 star", "count": 2000},
+      {"name": "2 star", "count": 1000},
+      {"name": "1 star", "count": 500}
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Morning Habits - Daily Routine",
+    "image": "https://i.ibb.co/Mx3jNLPV/habits.png",
+    "companyName": "LifeUp",
+    "description": "Build a better version of yourself by tracking your morning habits. Routine is the key to success.",
+    "size": 65,
+    "reviews": 8000,
+    "ratingAvg": 4.5,
+    "downloads": 500000,
+    "ratings": [
+      {"name": "5 star", "count": 4000},
+      {"name": "4 star", "count": 2000},
+      {"name": "3 star", "count": 1000},
+      {"name": "2 star", "count": 600},
+      {"name": "1 star", "count": 400}
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Focus Plant: Pomodoro Forest",
+    "image": "https://i.ibb.co/G9y3z8F/focus-plant.png",
+    "companyName": "Shikudo",
+    "description": "Save the world with your focus! Turn your focus time into raindrops and grow plants and flowers.",
+    "size": 110,
+    "reviews": 32000,
+    "ratingAvg": 4.8,
+    "downloads": 3000000,
+    "ratings": [
+      {"name": "5 star", "count": 9000},
+      {"name": "4 star", "count": 3000},
+      {"name": "3 star", "count": 1000},
+      {"name": "2 star", "count": 500},
+      {"name": "1 star", "count": 200}
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Alarmy - Alarm Clock & Sleep",
+    "image": "https://i.ibb.co/0V8yG4z/alarmy.png",
+    "companyName": "Alarmy Inc.",
+    "description": "World's most annoying alarm clock! It makes you wake up by making you solve math problems or take a photo of your sink.",
+    "size": 180,
+    "reviews": 150000,
+    "ratingAvg": 4.9,
+    "downloads": 50000000,
+    "ratings": [
+      {"name": "5 star", "count": 25000},
+      {"name": "4 star", "count": 10000},
+      {"name": "3 star", "count": 5000},
+      {"name": "2 star", "count": 2000},
+      {"name": "1 star", "count": 1000}
+    ]
+  }
+]
